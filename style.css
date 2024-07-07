@@ -1,0 +1,26 @@
+.one{
+
+    width : 98%;
+   
+
+}
+.one img{
+    width: 90%;
+    
+    border-image: round;
+
+ margin: 10;
+
+
+}
+.three{
+    background-color:#a78495;
+    border: 100% orchid solid;
+    
+}
+.three h3{
+    color: #fef6fb;
+}
+h2{
+    color: brown;
+}
